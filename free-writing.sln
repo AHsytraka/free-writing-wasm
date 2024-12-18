@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "free-writing-wasm", "free-writing-wasm\free-writing-wasm.csproj", "{37B01DEA-26E6-4FF4-B50A-3D620C625C71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreamCart", "DreamCart\DreamCart.csproj", "{7831B5C4-20B4-4D1E-9BA5-E69B03C16C54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{37B01DEA-26E6-4FF4-B50A-3D620C625C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37B01DEA-26E6-4FF4-B50A-3D620C625C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37B01DEA-26E6-4FF4-B50A-3D620C625C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37B01DEA-26E6-4FF4-B50A-3D620C625C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7831B5C4-20B4-4D1E-9BA5-E69B03C16C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7831B5C4-20B4-4D1E-9BA5-E69B03C16C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7831B5C4-20B4-4D1E-9BA5-E69B03C16C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7831B5C4-20B4-4D1E-9BA5-E69B03C16C54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
